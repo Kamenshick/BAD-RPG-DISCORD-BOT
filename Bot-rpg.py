@@ -1639,3 +1639,4 @@ async def add(ctx):
 #	await Bot.process_commands(message)	
 
 Bot.run('Nzg1NzQ3OTUzOTYwMjIyNzMz.X88Wzg.xu3V71i1riWtxXm_U4y7edyXyU8') 
+#классный токен, да? Дарю!
